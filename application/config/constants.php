@@ -85,11 +85,11 @@ defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automat
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
 
-define('AMAZON_SES_HOST','email-smtp.us-east-1.amazonaws.com');
+define('AMAZON_SES_HOST','');
 define('AMAZON_SES_PORT','25');
-define('AMAZON_SES_USER','AKIAIWEEQRAER3XBL6WQ');
-define('AMAZON_SES_PASS','As30KRWwe0v9KgU8tpbOMpLS2QpZ2wRjAjwjE/ou468L');
-define('AMAZON_SES_DEFAULT_SENDER','support@boomity.com');
+define('AMAZON_SES_USER','');
+define('AMAZON_SES_PASS','');
+define('AMAZON_SES_DEFAULT_SENDER','');
 
 define('ASSETS_VERSION','0.090');
 
