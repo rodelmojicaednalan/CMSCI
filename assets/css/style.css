@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/*
+ * Bootstrap v4.1.3 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+*/
+a {
+  color: #ff7622;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+a:hover {
+  color: #af5117;
+  text-decoration: none;
+}
+
+body.authentication-bg {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 800 800'%3E%3Cg fill-opacity='0.22'%3E%3Ccircle fill='%a65582' cx='400' cy='400' r='600'/%3E%3Ccircle fill='%a65582' cx='400' cy='400' r='500'/%3E%3Ccircle fill='%23cddbff' cx='400' cy='400' r='300'/%3E%3Ccircle fill='%a65582' cx='400' cy='400' r='200'/%3E%3Ccircle fill='%a65582' cx='400' cy='400' r='100'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: cover;
+  background-position: center;
+}

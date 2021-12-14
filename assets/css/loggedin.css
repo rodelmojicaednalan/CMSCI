@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.froala-container {
+    border: 2px dashed;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.publish-page {
+    display: block;
+}
+
+.pub-container{
+  float: right;
+  padding-right: 30%;
+  padding-top: 5rem;
+}

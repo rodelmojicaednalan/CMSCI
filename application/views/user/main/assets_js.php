@@ -1,0 +1,1 @@
+<script src="/assets/js/user.js?v=<?=ASSETS_VERSION?>"></script>
